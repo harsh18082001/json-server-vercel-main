@@ -1,11 +1,5 @@
 {
-  "users": [
-    {
-      "email": "lorem@yopmail.com",
-      "password": "$2a$10$fl3JJZZlSkrnbMEk/R2xeuSH0qaIPxvhAgOzx/atJorJxqh.KvRZW",
-      "id": 1
-    }
-  ],
+  "users": [],
   "project": [],
   "estimate": []
 }
