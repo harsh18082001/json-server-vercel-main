@@ -7,7 +7,8 @@
       "project_name": "Sarah Williams",
       "project_number": "PORST9012R",
       "area_location": "Telangana",
-      "address": "Mumbai, Maharashtra"
+      "address": "Mumbai, Maharashtra",
+      "status": "Completed"
     },
     {
       "customer": "Michael Jones",
@@ -15,7 +16,8 @@
       "project_name": "Robert Johnson",
       "project_number": "ABCDE1234F",
       "area_location": "Uttar Pradesh",
-      "address": "Bhiwani, Haryana"
+      "address": "Bhiwani, Haryana",
+      "status": "Processing"
     },
     {
       "customer": "John Doe",
@@ -23,7 +25,8 @@
       "project_name": "Isabella Anderson",
       "project_number": "XYZAB6789C",
       "area_location": "Delhi",
-      "address": "Avadi, Tamil Nadu"
+      "address": "Avadi, Tamil Nadu",
+      "status": "Rejected"
     },
     {
       "customer": "Ella Lewis",
@@ -31,7 +34,8 @@
       "project_name": "Christopher White",
       "project_number": "PORST9012R",
       "area_location": "Karnataka",
-      "address": "North Dum Dum, West Bengal"
+      "address": "North Dum Dum, West Bengal",
+      "status": "On Hold"
     },
     {
       "customer": "James Rodriguez",
@@ -39,7 +43,8 @@
       "project_name": "Jane Smith",
       "project_number": "RSTUV9012B",
       "area_location": "Andhra Pradesh",
-      "address": "Anantapur, Andhra Pradesh"
+      "address": "Anantapur, Andhra Pradesh",
+      "status": "In Transit"
     },
     {
       "customer": "Isabella Anderson",
@@ -47,7 +52,8 @@
       "project_name": "Olivia Martin",
       "project_number": "ABCDE6789Y",
       "area_location": "Odisha",
-      "address": "Farrukhabad, Uttar Pradesh"
+      "address": "Farrukhabad, Uttar Pradesh",
+      "status": "Completed"
     },
     {
       "customer": "Sarah Williams",
@@ -55,7 +61,8 @@
       "project_name": "John Doe",
       "project_number": "VWXYZ2345X",
       "area_location": "West Bengal",
-      "address": "Vadodara, Gujarat"
+      "address": "Vadodara, Gujarat",
+      "status": "Processing"
     },
     {
       "customer": "Sophia Hernandez",
@@ -63,7 +70,8 @@
       "project_name": "Mia Taylor",
       "project_number": "RSTUV2345W",
       "area_location": "Uttar Pradesh",
-      "address": "Loni, Uttar Pradesh"
+      "address": "Loni, Uttar Pradesh",
+      "status": "Rejected"
     },
     {
       "customer": "Sarah Williams",
@@ -71,7 +79,8 @@
       "project_name": "James Rodriguez",
       "project_number": "DEFGH6789D",
       "area_location": "Madhya Pradesh",
-      "address": "Raichur, Karnataka"
+      "address": "Raichur, Karnataka",
+      "status": "On Hold"
     },
     {
       "customer": "Sophia Hernandez",
@@ -79,7 +88,8 @@
       "project_name": "Robert Johnson",
       "project_number": "LMNOP5678V",
       "area_location": "Madhya Pradesh",
-      "address": "Karnataka"
+      "address": "Karnataka",
+      "status": "In Transit"
     },
     {
       "customer": "Emma Brown",
@@ -87,7 +97,8 @@
       "project_name": "Liam Smith",
       "project_number": "QRSTU3456V",
       "area_location": "Gujarat",
-      "address": "Ahmedabad, Gujarat"
+      "address": "Ahmedabad, Gujarat",
+      "status": "Completed"
     },
     {
       "customer": "Noah Wilson",
@@ -95,7 +106,8 @@
       "project_name": "Sophia Taylor",
       "project_number": "UVWXY6789Z",
       "area_location": "Punjab",
-      "address": "Ludhiana, Punjab"
+      "address": "Ludhiana, Punjab",
+      "status": "Processing"
     },
     {
       "customer": "Ava Johnson",
@@ -103,7 +115,8 @@
       "project_name": "Mason Brown",
       "project_number": "ABCDE1234F",
       "area_location": "Rajasthan",
-      "address": "Jaipur, Rajasthan"
+      "address": "Jaipur, Rajasthan",
+      "status": "Rejected"
     },
     {
       "customer": "William Davis",
@@ -111,7 +124,8 @@
       "project_name": "Emily Wilson",
       "project_number": "FGHIJ5678K",
       "area_location": "Kerala",
-      "address": "Kochi, Kerala"
+      "address": "Kochi, Kerala",
+      "status": "On Hold"
     },
     {
       "customer": "Sophia Martinez",
@@ -119,7 +133,8 @@
       "project_name": "James Rodriguez",
       "project_number": "LMNOP5678V",
       "area_location": "Tamil Nadu",
-      "address": "Chennai, Tamil Nadu"
+      "address": "Chennai, Tamil Nadu",
+      "status": "In Transit"
     },
     {
       "customer": "Liam Anderson",
@@ -127,7 +142,8 @@
       "project_name": "Olivia Martin",
       "project_number": "PORST9012R",
       "area_location": "Telangana",
-      "address": "Hyderabad, Telangana"
+      "address": "Hyderabad, Telangana",
+      "status": "Completed"
     },
     {
       "customer": "Mia Thomas",
@@ -135,7 +151,8 @@
       "project_name": "Michael Jones",
       "project_number": "ABCDE1234F",
       "area_location": "Uttar Pradesh",
-      "address": "Lucknow, Uttar Pradesh"
+      "address": "Lucknow, Uttar Pradesh",
+      "status": "Processing"
     },
     {
       "customer": "Lucas White",
@@ -143,7 +160,8 @@
       "project_name": "John Doe",
       "project_number": "XYZAB6789C",
       "area_location": "Delhi",
-      "address": "New Delhi, Delhi"
+      "address": "New Delhi, Delhi",
+      "status": "Rejected"
     },
     {
       "customer": "Amelia Harris",
@@ -151,7 +169,8 @@
       "project_name": "Ella Lewis",
       "project_number": "PORST9012R",
       "area_location": "Karnataka",
-      "address": "Bangalore, Karnataka"
+      "address": "Bangalore, Karnataka",
+      "status": "On Hold"
     },
     {
       "customer": "Benjamin Clark",
@@ -159,7 +178,8 @@
       "project_name": "James Rodriguez",
       "project_number": "RSTUV9012B",
       "area_location": "Andhra Pradesh",
-      "address": "Visakhapatnam, Andhra Pradesh"
+      "address": "Visakhapatnam, Andhra Pradesh",
+      "status": "In Transit"
     },
     {
       "customer": "Charlotte Lewis",
@@ -167,7 +187,8 @@
       "project_name": "Isabella Anderson",
       "project_number": "ABCDE6789Y",
       "area_location": "Odisha",
-      "address": "Bhubaneswar, Odisha"
+      "address": "Bhubaneswar, Odisha",
+      "status": "Completed"
     },
     {
       "customer": "Henry Walker",
@@ -175,7 +196,8 @@
       "project_name": "Sarah Williams",
       "project_number": "VWXYZ2345X",
       "area_location": "West Bengal",
-      "address": "Kolkata, West Bengal"
+      "address": "Kolkata, West Bengal",
+      "status": "Processing"
     },
     {
       "customer": "Evelyn Hall",
@@ -183,7 +205,8 @@
       "project_name": "Sophia Hernandez",
       "project_number": "RSTUV2345W",
       "area_location": "Uttar Pradesh",
-      "address": "Agra, Uttar Pradesh"
+      "address": "Agra, Uttar Pradesh",
+      "status": "Rejected"
     },
     {
       "customer": "Alexander Young",
@@ -191,7 +214,8 @@
       "project_name": "James Rodriguez",
       "project_number": "DEFGH6789D",
       "area_location": "Madhya Pradesh",
-      "address": "Indore, Madhya Pradesh"
+      "address": "Indore, Madhya Pradesh",
+      "status": "On Hold"
     },
     {
       "customer": "Harper King",
@@ -199,7 +223,8 @@
       "project_name": "Robert Johnson",
       "project_number": "LMNOP5678V",
       "area_location": "Madhya Pradesh",
-      "address": "Bhopal, Madhya Pradesh"
+      "address": "Bhopal, Madhya Pradesh",
+      "status": "In Transit"
     },
     {
       "customer": "Daniel Wright",
@@ -207,7 +232,8 @@
       "project_name": "Liam Smith",
       "project_number": "QRSTU3456V",
       "area_location": "Gujarat",
-      "address": "Surat, Gujarat"
+      "address": "Surat, Gujarat",
+      "status": "Completed"
     },
     {
       "customer": "Avery Scott",
@@ -215,7 +241,8 @@
       "project_name": "Sophia Taylor",
       "project_number": "UVWXY6789Z",
       "area_location": "Punjab",
-      "address": "Amritsar, Punjab"
+      "address": "Amritsar, Punjab",
+      "status": "Processing"
     },
     {
       "customer": "Jack Green",
@@ -223,7 +250,8 @@
       "project_name": "Mason Brown",
       "project_number": "ABCDE1234F",
       "area_location": "Rajasthan",
-      "address": "Udaipur, Rajasthan"
+      "address": "Udaipur, Rajasthan",
+      "status": "Rejected"
     },
     {
       "customer": "Olivia Martin",
@@ -231,7 +259,8 @@
       "project_name": "Sarah Williams",
       "project_number": "PORST9012R",
       "area_location": "Telangana",
-      "address": "Mumbai, Maharashtra"
+      "address": "Mumbai, Maharashtra",
+      "status": "On Hold"
     },
     {
       "customer": "Michael Jones",
@@ -239,7 +268,8 @@
       "project_name": "Robert Johnson",
       "project_number": "ABCDE1234F",
       "area_location": "Uttar Pradesh",
-      "address": "Bhiwani, Haryana"
+      "address": "Bhiwani, Haryana",
+      "status": "In Transit"
     },
     {
       "customer": "John Doe",
@@ -247,7 +277,8 @@
       "project_name": "Isabella Anderson",
       "project_number": "XYZAB6789C",
       "area_location": "Delhi",
-      "address": "Avadi, Tamil Nadu"
+      "address": "Avadi, Tamil Nadu",
+      "status": "Completed"
     },
     {
       "customer": "Ella Lewis",
@@ -255,7 +286,8 @@
       "project_name": "Christopher White",
       "project_number": "PORST9012R",
       "area_location": "Karnataka",
-      "address": "North Dum Dum, West Bengal"
+      "address": "North Dum Dum, West Bengal",
+      "status": "Processing"
     },
     {
       "customer": "James Rodriguez",
@@ -263,7 +295,8 @@
       "project_name": "Jane Smith",
       "project_number": "RSTUV9012B",
       "area_location": "Andhra Pradesh",
-      "address": "Anantapur, Andhra Pradesh"
+      "address": "Anantapur, Andhra Pradesh",
+      "status": "Rejected"
     },
     {
       "customer": "Isabella Anderson",
@@ -271,7 +304,8 @@
       "project_name": "Olivia Martin",
       "project_number": "ABCDE6789Y",
       "area_location": "Odisha",
-      "address": "Farrukhabad, Uttar Pradesh"
+      "address": "Farrukhabad, Uttar Pradesh",
+      "status": "On Hold"
     },
     {
       "customer": "Sarah Williams",
@@ -279,7 +313,8 @@
       "project_name": "John Doe",
       "project_number": "VWXYZ2345X",
       "area_location": "West Bengal",
-      "address": "Vadodara, Gujarat"
+      "address": "Vadodara, Gujarat",
+      "status": "In Transit"
     },
     {
       "customer": "Sophia Hernandez",
@@ -287,7 +322,8 @@
       "project_name": "Mia Taylor",
       "project_number": "RSTUV2345W",
       "area_location": "Uttar Pradesh",
-      "address": "Loni, Uttar Pradesh"
+      "address": "Loni, Uttar Pradesh",
+      "status": "Completed"
     },
     {
       "customer": "Sarah Williams",
@@ -295,7 +331,8 @@
       "project_name": "James Rodriguez",
       "project_number": "DEFGH6789D",
       "area_location": "Madhya Pradesh",
-      "address": "Raichur, Karnataka"
+      "address": "Raichur, Karnataka",
+      "status": "Processing"
     },
     {
       "customer": "Sophia Hernandez",
@@ -303,7 +340,8 @@
       "project_name": "Robert Johnson",
       "project_number": "LMNOP5678V",
       "area_location": "Madhya Pradesh",
-      "address": "Karnataka"
+      "address": "Karnataka",
+      "status": "Rejected"
     },
     {
       "customer": "Emma Brown",
@@ -311,7 +349,8 @@
       "project_name": "Liam Smith",
       "project_number": "QRSTU3456V",
       "area_location": "Gujarat",
-      "address": "Ahmedabad, Gujarat"
+      "address": "Ahmedabad, Gujarat",
+      "status": "On Hold"
     },
     {
       "customer": "Noah Wilson",
@@ -319,7 +358,8 @@
       "project_name": "Sophia Taylor",
       "project_number": "UVWXY6789Z",
       "area_location": "Punjab",
-      "address": "Ludhiana, Punjab"
+      "address": "Ludhiana, Punjab",
+      "status": "In Transit"
     },
     {
       "customer": "Ava Johnson",
@@ -327,7 +367,8 @@
       "project_name": "Mason Brown",
       "project_number": "ABCDE1234F",
       "area_location": "Rajasthan",
-      "address": "Jaipur, Rajasthan"
+      "address": "Jaipur, Rajasthan",
+      "status": "Completed"
     },
     {
       "customer": "William Davis",
@@ -335,7 +376,8 @@
       "project_name": "Emily Wilson",
       "project_number": "FGHIJ5678K",
       "area_location": "Kerala",
-      "address": "Kochi, Kerala"
+      "address": "Kochi, Kerala",
+      "status": "Processing"
     },
     {
       "customer": "Sophia Martinez",
@@ -343,7 +385,8 @@
       "project_name": "James Rodriguez",
       "project_number": "LMNOP5678V",
       "area_location": "Tamil Nadu",
-      "address": "Chennai, Tamil Nadu"
+      "address": "Chennai, Tamil Nadu",
+      "status": "Rejected"
     },
     {
       "customer": "Liam Anderson",
@@ -351,7 +394,8 @@
       "project_name": "Olivia Martin",
       "project_number": "PORST9012R",
       "area_location": "Telangana",
-      "address": "Hyderabad, Telangana"
+      "address": "Hyderabad, Telangana",
+      "status": "On Hold"
     },
     {
       "customer": "Mia Thomas",
@@ -359,7 +403,8 @@
       "project_name": "Michael Jones",
       "project_number": "ABCDE1234F",
       "area_location": "Uttar Pradesh",
-      "address": "Lucknow, Uttar Pradesh"
+      "address": "Lucknow, Uttar Pradesh",
+      "status": "In Transit"
     },
     {
       "customer": "Lucas White",
@@ -367,7 +412,8 @@
       "project_name": "John Doe",
       "project_number": "XYZAB6789C",
       "area_location": "Delhi",
-      "address": "New Delhi, Delhi"
+      "address": "New Delhi, Delhi",
+      "status": "Completed"
     },
     {
       "customer": "Amelia Harris",
@@ -375,7 +421,8 @@
       "project_name": "Ella Lewis",
       "project_number": "PORST9012R",
       "area_location": "Karnataka",
-      "address": "Bangalore, Karnataka"
+      "address": "Bangalore, Karnataka",
+      "status": "Processing"
     },
     {
       "customer": "Benjamin Clark",
@@ -383,7 +430,8 @@
       "project_name": "James Rodriguez",
       "project_number": "RSTUV9012B",
       "area_location": "Andhra Pradesh",
-      "address": "Visakhapatnam, Andhra Pradesh"
+      "address": "Visakhapatnam, Andhra Pradesh",
+      "status": "Rejected"
     },
     {
       "customer": "Charlotte Lewis",
@@ -391,7 +439,8 @@
       "project_name": "Isabella Anderson",
       "project_number": "ABCDE6789Y",
       "area_location": "Odisha",
-      "address": "Bhubaneswar, Odisha"
+      "address": "Bhubaneswar, Odisha",
+      "status": "On Hold"
     },
     {
       "customer": "Henry Walker",
@@ -399,7 +448,8 @@
       "project_name": "Sarah Williams",
       "project_number": "VWXYZ2345X",
       "area_location": "West Bengal",
-      "address": "Kolkata, West Bengal"
+      "address": "Kolkata, West Bengal",
+      "status": "In Transit"
     },
     {
       "customer": "Evelyn Hall",
@@ -407,7 +457,8 @@
       "project_name": "Sophia Hernandez",
       "project_number": "RSTUV2345W",
       "area_location": "Uttar Pradesh",
-      "address": "Agra, Uttar Pradesh"
+      "address": "Agra, Uttar Pradesh",
+      "status": "Completed"
     },
     {
       "customer": "Alexander Young",
@@ -415,7 +466,8 @@
       "project_name": "James Rodriguez",
       "project_number": "DEFGH6789D",
       "area_location": "Madhya Pradesh",
-      "address": "Indore, Madhya Pradesh"
+      "address": "Indore, Madhya Pradesh",
+      "status": "Processing"
     },
     {
       "customer": "Harper King",
@@ -423,7 +475,8 @@
       "project_name": "Robert Johnson",
       "project_number": "LMNOP5678V",
       "area_location": "Madhya Pradesh",
-      "address": "Bhopal, Madhya Pradesh"
+      "address": "Bhopal, Madhya Pradesh",
+      "status": "Rejected"
     },
     {
       "customer": "Daniel Wright",
@@ -431,7 +484,8 @@
       "project_name": "Liam Smith",
       "project_number": "QRSTU3456V",
       "area_location": "Gujarat",
-      "address": "Surat, Gujarat"
+      "address": "Surat, Gujarat",
+      "status": "On Hold"
     },
     {
       "customer": "Avery Scott",
@@ -439,7 +493,8 @@
       "project_name": "Sophia Taylor",
       "project_number": "UVWXY6789Z",
       "area_location": "Punjab",
-      "address": "Amritsar, Punjab"
+      "address": "Amritsar, Punjab",
+      "status": "In Transit"
     }
   ],
   "estimate": []
