@@ -6,6 +6,13 @@
       "Rejected",
       "On Hold",
       "In Transit"
+    ],
+    "estimate_status": [
+      "Created",
+      "Processing",
+      "Rejected",
+      "On Hold",
+      "In Transit"
     ]
   },
   "project": [
@@ -410,5 +417,42 @@
       "email": "lorem20@yopmail.com"
     }
   ],
-  "estimate": []
+  "estimate": [
+    {
+      "project": "Electric",
+      "version": "00000",
+      "name": "Lamps",
+      "desc": "Item Description",
+      "unit": "QTY",
+      "quantity": 100,
+      "price": 100,
+      "margin_pr": 0,
+      "total": 10000,
+      "status": "Created"
+    },
+    {
+      "project": "Electric",
+      "version": "00000",
+      "name": "Wires",
+      "desc": "Item Description",
+      "unit": "Meter",
+      "quantity": 20,
+      "price": 200,
+      "margin_pr": 0,
+      "total": 4000,
+      "status": "Created"
+    },
+    {
+      "project": "Electric",
+      "version": "00000",
+      "name": "Electric Tools",
+      "desc": "Item Description",
+      "unit": "Box",
+      "quantity": 10,
+      "price": 2000,
+      "margin_pr": 10,
+      "total": 22000,
+      "status": "Created"
+    }
+  ]
 }
